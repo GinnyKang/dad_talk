@@ -1,0 +1,385 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+
+/****** LOGIN MODAL ******/
+.loginmodal-container {
+	padding: 0px 30px;
+	max-width: 350px;
+	width: 100% !important;
+	background-color: #F7F7F7;
+	margin: 0 auto;
+	border-radius: 2px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+}
+
+.loginmodal-container h1 {
+	text-align: center;
+	font-size: 1.8em;
+}
+
+.loginmodal-container input[type=submit] {
+	width: 100%;
+	display: block;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.loginmodal-container input[type=text], input[type=password] {
+	height: 44px;
+	font-size: 16px;
+	width: 100%;
+	margin-bottom: 10px;
+	-webkit-appearance: none;
+	background: #fff;
+	border: 1px solid #d9d9d9;
+	border-top: 1px solid #c0c0c0;
+	/* border-radius: 2px; */
+	padding: 0 8px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.loginmodal-container input[type=text]:hover, input[type=password]:hover
+	{
+	border: 1px solid #b9b9b9;
+	border-top: 1px solid #a0a0a0;
+	-moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.loginmodal {
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Arial', sans-serif;
+	font-weight: 700;
+	height: 36px;
+	padding: 0 8px;
+	/* border-radius: 3px; -webkit-user-select: none; user-select: none; */
+}
+
+.loginmodal-submit { /* border: 1px solid #3079ed; */
+	border: 0px;
+	color: #fff;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.1);
+	background-color: #4d90fe;
+	padding: 17px 0px;
+	font-family: roboto;
+	font-size: 14px;
+	/* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#4787ed)); */
+}
+
+.loginmodal-submit:hover { /* border: 1px solid #2f5bb7; */
+	border: 0px;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	background-color: #357ae8;
+	/* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#357ae8)); */
+}
+
+.loginmodal-container a {
+	text-decoration: none;
+	color: #666;
+	font-weight: 400;
+	text-align: center;
+	display: inline-block;
+	opacity: 0.6;
+	transition: opacity ease 0.5s;
+}
+
+.login-help {
+	font-size: 12px;
+}
+
+#login-modal{
+		font-family: 'Jeju Gothic', serif;
+}
+
+.top_header {
+	font-family: 'Jeju Gothic', serif;
+	background-color: #82ced9;
+}
+
+.top_header li>a {
+	font-size: 14px;
+	font-weight: 600;
+	color: black;
+	padding-right: 30px;
+}
+
+.top_header li>a:hover {
+	background: none;
+	color: #246a75;
+}
+
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover {
+	background: none;
+}
+
+.top_header li>a, a.dropdown-toggle:hover {
+	background: none;
+	color: #ebf7f9;
+}
+
+#header {
+	font-family: 'Jeju Gothic', serif;
+	background-color: #82ced9;
+	height: 20%;
+	padding-bottom: 20px;
+}
+
+.nav img {
+	width: auto;
+	height: 40px;
+}
+
+.navbar {
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+.col-md-6, .col-lg-6 {
+	margin-top: 20px;
+}
+
+.navbar-toggle {
+	border-color: white;
+}
+
+.icon-bar {
+	color: white;
+	border-color: white;
+	background-color: white;
+}
+
+#logo_m {
+	color: white;
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: 800;
+	padding-left: 37%;
+	padding-top: 15px;
+}
+
+#logo_m:hover {
+	color: #246a75;
+}
+
+#m_button:hover{
+	color: #246a75;
+}
+
+.icon-bar:hover{
+	color: #246a75;
+}
+
+#logo {
+	color: white;
+	text-decoration: none;
+	font-size: 40px;
+	font-weight: 800;
+	padding-left: 120px;;
+}
+
+#logo:hover {
+	color: #246a75;
+}
+
+#myNavbar {
+	padding-right: 130px;
+}
+
+#myNavbar li>a:hover {
+	background: none;
+	color: #246a75;
+}
+
+#myNavbar a {
+	color: white;
+	padding-right: 20px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+#babyinfo a {
+	color: #246a75;
+	font-size: 14px;
+	opacity: 0.8;
+}
+
+#babyinfo a:hover {
+	color: #9dd8e1;
+}
+
+#surinfo a {
+	color: #246a75;
+	font-size: 14px;
+	opacity: 0.8;
+}
+
+#surinfo a:hover {
+	color: #9dd8e1;
+}
+
+.main {
+	padding-top: 150px;
+	padding-bottom: 30px;
+	margin: auto;
+	background-color: white;
+	width: 90%;
+	height: auto;
+}
+
+#slider {
+	padding-top: 0px;
+}
+
+#slider .item {
+	width: 100%;
+	height: auto;
+	color: white;
+	font-family: 'Hanna', serif;
+}
+
+#slider .item h3 {
+	padding-bottom: 30px;
+}
+
+#wordcloud {
+	padding: 10px 15px;
+}
+
+#wordcloud img {
+	width: 250px;
+	height: 300px;
+	padding-left: 50px;
+}
+
+
+#memo {
+	font-family: 'Hanna', serif;
+	border-color: #ff6600;
+	border-width: 3px;
+	border-style: dotted;
+	height: 300px;
+	width: 470px;
+	border-radius: 25px;
+	padding: 10px 15px;
+	font-size: 20px;
+}
+
+#memo p {
+	font-size: 25px;
+	padding-left: 10px;
+}
+
+#memo a {
+	text-decoration: none;
+	font-size: 18px;
+}
+
+#memo ul {
+	padding-left: 20px;
+}
+
+#memo_contents li {
+	text-decoration: none;
+	padding-bottom: 5px;
+	color: #262626;
+	font-family: 'Hanna', serif;
+}
+
+#memo_contents li :hover {
+	color: #b3b3b3;
+}
+
+
+#myModal {
+	font-family: 'Hanna', serif;
+}
+
+
+#contentModal{
+	font-family: 'Hanna', serif;
+}
+
+#r_blog {
+	margin: 15px 0px;
+	font-family: 'Hanna', serif;
+	font-weight: 500;
+	color: #369fb0;
+}
+
+#blog_preview {
+	padding-top: 5px;
+	padding-bottom: 20px;
+}
+
+#blog_preview img {
+	width: 80px;
+	height: 100px;
+	align: left;
+}
+
+#blog_preview {
+	padding-left: 30px;
+}
+
+#blog_details {
+	padding-left: 75px;
+	font-family: 'Hanna', serif;
+}
+
+#blog_details a {
+	text-decoration: none;
+	font-family: 'Hanna', serif;
+	font-weight: 600;
+	color: #0080ff;
+}
+
+#blog_details a:hover {
+	color: #80bfff;
+}
+
+.footer-bottom {
+	background: #8ad0db;
+	opacity: 0.8;
+	color: black;
+	border-top: 1px solid #DDDDDD;
+	text-align: center;
+	height: auto;
+	padding: 30px 0px;
+}
+
+.footer-bottom img {
+	margin: auto;
+	width: 10%;
+	height: 15%;
+	padding: 10px 0px;
+}
+
+#team {
+	font-size: 25px;
+	font-weight: 600;
+}
+
+#name {
+	font-size: 18px;
+	font-weight: 600;
+}
+
+#role {
+	font-size: 15px;
+}
+
+.ff {
+	color: white;
+	text-align: center;
+	padding: 20px 0px;
+}
+
+.ff a {
+	color: white;
+	text-decoration: none;
+}

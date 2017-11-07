@@ -1,0 +1,14 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 9개월</h4>
+<br>
+<span>1. 상자 터널놀이</span><br>
+<span>2. 거울아 놀자</span><br>
+<span>3. 냅킨놀이</span><br>
+<span>4. 짝짜꿍 짝짜꿍</span><br>
+<span>5. 여러가지 소리들</span><br>
+<span>6. 사진 속 엄마 아빠</span><br>
+<span>7. 어느쪽 손일까요?</span><br>
+<span>8. 과자가 어디에 있을까?</span><br>
+<span>9. 탑쌓기 놀이</span><br>
+<span>10. 방울을 찾아라</span><br>
+<span>11. 공을 굴려보자</span><br>
+<span>12. 구멍에 손가락 넣기</span><br>

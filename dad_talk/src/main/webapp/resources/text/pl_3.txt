@@ -1,0 +1,14 @@
+﻿<h4>신청 방법</h4>
+<br>
+<span>육아 휴직 제도</span><br>
+<p style="margin-left:15px;">
+대 상│만 8세 이하 또는 초등학교 2학년 이하의 자녀(입양한 자녀 포함)가 있는 남녀 근로자모두 <br>
+기 간│최대 1년(한 자녀에 대하여 남녀 근로자 각각 1년 사용 가능), 1회에 한하여 분할 사용 가능
+</p><br>
+<span>육하휴직 신청서 작성</span><br>
+<p style="margin-left:15px;">
+육아휴직을 신청하려는 근로자는 휴직개시 예정일의 30일 전까지 육아휴직 대상인 영유아의 성명, 생년월일, 휴직개시 예정일, 육아휴직을 종료하려는 날, 육아휴직 신청 연월일, 신청인 등에 대한 사항을 신청서에 적어 사업주에게 제출하면 됩니다.
+</p><br>
+<div style="margin-left:15px;">
+<img src="/dad_talk/resources/images/pl2.PNG" style="width:70%; height:50%;">
+</style>

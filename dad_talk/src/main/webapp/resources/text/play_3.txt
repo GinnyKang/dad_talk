@@ -1,0 +1,14 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 3개월</h4>
+<br>
+<span>1. 장난감 혼자 잡고 들기</span><br>
+<span>2. 양면 종이접시 인형 보여주기</span><br>
+<span>3. 축구선수 놀이</span><br>
+<span>4. 매달리 고리 가지고 놀기</span><br>
+<span>5. 자장가, 전래동요 들려주기</span><br>
+<span>6. 다양한 물건 촉감 즐기기</span><br>
+<span>7. 영아용 운동기구 설치해주기</span><br>
+<span>8. 바깥세상 구경하기</span><br>
+<span>9. 여러가지 느낌을 주는 촉감놀이</span><br>
+<span>10. 윗몸일으키기 놀이</span><br>
+<span>11. 똑바로 버티기 놀이</span><br>
+<span>12. 지금 아빠는~ 놀이</span><br>

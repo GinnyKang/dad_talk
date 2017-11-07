@@ -1,0 +1,15 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 12개월</h4>
+<br>
+<span>1. 아빠와 아기는 흉내쟁이</span><br>
+<span>2. 물을 옮기는 숟가락</span><br>
+<span>3. 의자나 유모차 밀어보기</span><br>
+<span>4. 끈끈이 테이프 떼기</span><br>
+<span>5. 큰컵이 작은컵에 쏙!</span><br>
+<span>6. 굴을 통과하는 자동차</span><br>
+<span>7. 맨발로 걸으며 감촉 느끼기</span><br>
+<span>8. 밀가루 찰흙놀이</span><br>
+<span>9. 눈코입은 어디에 있을까요?</span><br>
+<span>10. 까까 기차놀이</span><br>
+<span>11. 핑거 페인팅</span><br>
+<span>12. 주사위를 쏙!</span><br>
+<span>13. 퍼즐조각 맞추기 놀이</span><br>

@@ -1,0 +1,11 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 11개월</h4>
+<br>
+<span>1. 야외 탐구놀이</span><br>
+<span>2. 여러가지 공을 굴려요</span><br>
+<span>3. 사탕꺼내기</span><br>
+<span>4. 과자를 옮겨요</span><br>
+<span>5. 분유통 농구놀이</span><br>
+<span>6. 뚜껑 열고 닫기</span><br>
+<span>7. 자동차 운전하기</span><br>
+<span>8. 밀가루 그림 그리기</span><br>
+

@@ -1,0 +1,9 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 10개월</h4>
+<br>
+<span>1. 하하 호호 즐거운 놀이</span><br>
+<span>2. 달님 별님 꿈나라</span><br>
+<span>3. 자동차 미끄럼틀</span><br>
+<span>4. 소리 흉내내며 그림책 읽기</span><br>
+<span>5. 장남감 통에 장난감 넣기</span><br>
+<span>6. 온갖 소리 내보기</span><br>
+<span>7. 원통 장난감</span><br>

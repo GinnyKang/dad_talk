@@ -1,0 +1,16 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 8개월</h4>
+<br>
+<span>1. 아빠와 엄마 사진보기</span><br>
+<span>2. 공을 굴려라, 공을 찾아라!</span><br>
+<span>3. 삶은 국수 끊어보기</span><br>
+<span>4. 장난감 전화놀이</span><br>
+<span>5. 주무르고 터뜨리기 놀이</span><br>
+<span>6. 장난감 찾기 놀이</span><br>
+<span>7. 블럭으로 탑쌓고 무너뜨리기 놀이</span><br>
+<span>8. 걷기놀이</span><br>
+<span>9. 냄비와 후라이팬</span><br>
+<span>10. 장애물놀이</span><br>
+<span>11. 구멍 안에 물건 넣기</span><br>
+<span>12. 종이놀이</span><br>
+<span>13. 하늘하늘 스카프</span><br>
+<span>14. 빵빵 자동차놀이</span><br>

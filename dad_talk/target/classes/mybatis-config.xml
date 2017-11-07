@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+	<typeAliases>
+		<typeAlias type="com.hwang.dad_talk.dto.MemberVO" alias="memberVO"/>
+		<typeAlias type="com.hwang.dad_talk.dto.MemoVO" alias="memoVO"/>
+		<typeAlias type="com.hwang.dad_talk.dto.MemoVO" alias="blogVO"/>
+	</typeAliases>
+</configuration>

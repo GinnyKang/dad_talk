@@ -1,0 +1,11 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 7개월</h4>
+<br>
+<span>1. 장난감 세개로 하는 놀이</span><br>
+<span>2. 깡통놀이</span><br>
+<span>3. 거울 속에 있는 인형보기</span><br>
+<span>4. 둥개둥개 시소놀이</span><br>
+<span>5. 얼차얼차 줄다리기</span><br>
+<span>6. 노래하며 손씻기</span><br>
+<span>7. 컵놀이</span><br>
+<span>8. 책을 읽어요</span><br>
+<span>9. 스펀지 장난감</span><br>

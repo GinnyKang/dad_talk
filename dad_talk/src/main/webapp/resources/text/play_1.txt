@@ -1,0 +1,11 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 0~1개월</h4>
+<br>
+<span>1. 자세바꾸기 놀이</span><br>
+<span>2. 안아주기</span><br>
+<span>3. 시각자극놀이</span><br>
+<span>4. 딸랑이와 방울 흔들어주기</span><br>
+<span>5. 낮고 울림이 있는 소리 들려주기</span><br>
+<span>6. 인공 젖꼭지 빨기</span><br>
+<span>7. 아기 목욕시키기</span><br>
+<span>8. 어루만지고 마사지 해주기</span><br>
+<span>9. 자장가 들려주기</span><br>

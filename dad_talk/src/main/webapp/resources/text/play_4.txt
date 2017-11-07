@@ -1,0 +1,15 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 4개월</h4>
+<br>
+<span>1. 배밀이 연습하기</span><br>
+<span>2. 거울속의 아기는 누구일까요?</span><br>
+<span>3. 그네타기놀이</span><br>
+<span>4. 비누방울놀이</span><br>
+<span>5. 바퀴달린 장난감 굴리기</span><br>
+<span>6. 녹음기에서 아기 목소리가 들려요</span><br>
+<span>7. 고리나 팔찌 잡아보기</span><br>
+<span>8. 아기 들어올려주기</span><br>
+<span>9. 팔뻗어 만지고 잡아당기기</span><br>
+<span>10. 이것저것 구경해요</span><br>
+<span>11. 자장자장 토닥토닥</span><br>
+<span>12. 숟가락놀이</span><br>
+<span>13. 굴러가는공 바라보기</span><br>

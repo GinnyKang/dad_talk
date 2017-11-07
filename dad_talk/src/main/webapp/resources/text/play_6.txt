@@ -1,0 +1,16 @@
+﻿<h4><img src="/dad_talk/resources/images/teddy.png"> 6개월</h4>
+<br>
+<span>1. 까꿍놀이하기</span><br>
+<span>2. 기저귀 까꿍!</span><br>
+<span>3. 친구초대하기</span><br>
+<span>4. 화가놀이</span><br>
+<span>5. 물풍선 놀이</span><br>
+<span>6. 떳다떳다 비행기</span><br>
+<span>7. 위로 아래로 엘리베이터타기</span><br>
+<span>8. 쿵더쿵 하늘높이!</span><br>
+<span>9. 아기에게 크고 푹신한 인형주기</span><br>
+<span>10. 소리를 만들어봐요</span><br>
+<span>11. 앉은뱅이 축구놀이</span><br>
+<span>12. 장난감을 찾아라</span><br>
+<span>13. 빨대장난감</span><br>
+<span>14. 젤리가지고 놀기</span><br>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.hwang.dad_talk.mapper.memoMapper">
+
+	<select id="selectMemo" parameterType="String" resultType="memoVO">
+		SELECT * FROM MEMO WHERE user_id = #{user_id}
+	</select>
+	
+	<select id="selectMemoDetails" parameterType="Integer" resultType="memoVO">
+		SELECT num, title, user_id, content FROM MEMO WHERE num = #{num}
+	</select>
+
+	<insert id="insertMemo" parameterType="java.util.HashMap">
+		INSERT INTO MEMO(user_id, title, content) VALUES(#{user_id}, #{title}, #{content})
+	</insert>
+
+	
+ 	<update id="updateMemo" parameterType="java.util.HashMap">
+ 		UPDATE MEMO SET title= #{title}, content = #{content} WHERE num = #{num} 
+ 	</update>
+ 	
+ 	 <delete id="deleteMemo" parameterType="int">
+ 		DELETE FROM MEMO WHERE num = #{num}
+ 	</delete>
+ 	
+
+</mapper>
